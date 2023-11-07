@@ -187,10 +187,7 @@ button:hover {
 .selected-room{
     background-color: #cfcbca;
 }
-
-
-
-
+ guest-details-form
 
 .background {
     width: 430px;
@@ -290,7 +287,8 @@ button {
 button:hover {
     box-shadow: 1px 1px 11px 8px #e7a83a;
 }
- our-offers-form
+guest-details-form
+
 
 .site-content {
     height: 70%;
@@ -303,6 +301,7 @@ button:hover {
 .buttons button {
     margin: 20px;
 }
+
 
 .offers {
     display: flex;
@@ -341,3 +340,4 @@ button:hover {
     background-color: #cfcbca !important;
 }
 
+ main

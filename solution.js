@@ -24,6 +24,7 @@ function cleanData(e) {
 }
 
 
+
 changeContent('search-form-content');
 document.querySelector('#search-form-button').addEventListener('click', (e) => searchFormData(e));
 
@@ -42,4 +43,5 @@ function searchFormData(e) {
         changeContent('search-result-form-content');
     }
 }
+
 
